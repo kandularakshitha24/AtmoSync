@@ -1,4 +1,5 @@
-# AtmoSync
+ # AtmoSync
+
 ## Micro-Climate Arbitrage Analytics
 
 AtmoSync is a data-driven project that analyzes weather data
