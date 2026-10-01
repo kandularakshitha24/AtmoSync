@@ -1,0 +1,9 @@
+AtmoSync - Localized Micro-Climate Insights
+==================================================
+
+1. Hyderabad_Central has the highest average temperature of 28.90 °C.
+2. Gachibowli has the lowest average temperature of 27.79 °C.
+3. Gachibowli has the highest average humidity of 55.82 %.
+4. Hyderabad_Central has the lowest average humidity of 51.70 %.
+5. Gachibowli has the highest average wind speed of 7.30 km/h.
+6. Hyderabad_Central has the lowest average wind speed of 6.27 km/h.
