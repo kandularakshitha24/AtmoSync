@@ -1,6 +1,11 @@
- pandas
- numpy
- requests
- matplotlib
- seaborn
- scikit-learn
+pandas
+numpy
+requests
+matplotlib
+seaborn
+scikit-learn
+joblib
+fastapi
+uvicorn
+streamlit
+plotly
